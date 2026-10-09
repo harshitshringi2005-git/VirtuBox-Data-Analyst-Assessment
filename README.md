@@ -84,20 +84,27 @@ AI tools supported concept clarification, troubleshooting, and the review of ins
 
 <p align="center">
   <a href="https://docs.google.com/spreadsheets/d/10kbkpXNpZEGI2xyT3GbbyyUvaK6nm30GfYu4uODHF6Q/edit?gid=316326430#gid=316326430">
-    📗 <strong>Google Sheets Analysis</strong>
+    <img src="https://img.shields.io/badge/Google_Sheets-Analysis-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets Analysis">
   </a>
-  &nbsp; • &nbsp;
+  <br><br>
+  <a href="https://datastudio.google.com/reporting/3403db4f-176c-4b12-bab8-e9d9e5f95201">
+    <img src="https://img.shields.io/badge/Looker_Studio-Sales_Dashboard-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio Sales Dashboard">
+  </a>
+  <br><br>
   <a href="https://docs.google.com/presentation/d/1prh14b0q7kenf8QKz0PlEF_kVuJeEL8DFgMJOjsP2EM/edit?slide=id.h48e02e740f4405a6_0_46#slide=id.h48e02e740f4405a6_0_46">
-    📊 <strong>Management Presentation</strong>
+    <img src="https://img.shields.io/badge/Google_Slides-Management_Presentation-FBBC04?style=for-the-badge&logo=googleslides&logoColor=white" alt="Management Presentation">
   </a>
-  &nbsp; • &nbsp;
+  <br><br>
   <a href="https://drive.google.com/drive/folders/1LBWDXihTteXtsF4-vm2NEdECRqadO0va?usp=drive_link">
-    📁 <strong>Google Drive Folder</strong>
+    <img src="https://img.shields.io/badge/Google_Drive-Assessment_Folder-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Assessment Folder">
   </a>
 </p>
-https://datastudio.google.com/reporting/3403db4f-176c-4b12-bab8-e9d9e5f95201
 
----
+* 📗 **Google Sheets:** Data analysis, calculations, findings, and methodology.
+* 📊 **Looker Studio:** Interactive sales dashboard with KPIs and charts.
+* 📽️ **Management Presentation:** Summary of key findings, limitations, and recommendations.
+* 📁 **Google Drive:** Central folder containing assessment deliverables.
+
 
 <p align="center">
   <strong>📊 Better Data. Better Decisions.</strong><br>
