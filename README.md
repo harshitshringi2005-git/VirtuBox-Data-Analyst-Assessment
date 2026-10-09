@@ -104,17 +104,8 @@ AI tools supported concept clarification, troubleshooting, and reviewing insight
 
 \## Additional Deliverables
 
-
-
-\* \[Google Sheets Analysis](PASTE\_YOUR\_GOOGLE\_SHEETS\_LINK\_HERE)
-
-\* \[Management Presentation](PASTE\_YOUR\_GOOGLE\_SLIDES\_LINK\_HERE)
-
-\* \[Google Drive Assessment Folder](PASTE\_YOUR\_GOOGLE\_DRIVE\_FOLDER\_LINK\_HERE)
-
-
-
-Replace the three link placeholders with your actual shareable links before submitting.
-
+* [Google Sheets Analysis](https://docs.google.com/spreadsheets/d/10kbkpXNpZEGI2xyT3GbbyyUvaK6nm30GfYu4uODHF6Q/edit?gid=316326430#gid=316326430)
+* [Management Presentation](https://docs.google.com/presentation/d/1prh14b0q7kenf8QKz0PlEF_kVuJeEL8DFgMJOjsP2EM/edit?slide=id.h48e02e740f4405a6_0_46#slide=id.h48e02e740f4405a6_0_46)
+* [Google Drive Assessment Folder](https://drive.google.com/drive/folders/1LBWDXihTteXtsF4-vm2NEdECRqadO0va?usp=drive_link)
 
 
